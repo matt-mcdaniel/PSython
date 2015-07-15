@@ -1,0 +1,47 @@
+Gents,
+
+You get a dataset from a Client with a quick turnaround (of course) which needs data counted, summed and divided into two different spreadsheets.  The problem is that everything is currently in one spreadsheet and its almost 6,000 rows long so….did I mention it was on Friday at 3pm and you have to work the weekend in excel?  If only there was better way.
+
+ 
+Use the attached and complete the following:
+
+
+OBJs
+
+1. Read in data to Python from a .CSV file (import csv àhttps://docs.python.org/2/library/csv.html )
+
+2. Sort and Identify data
+
+3. Sum the cost columns
+
+4. Separate BRAC and ACTIVE data
+
+5. Print out completed data to TWO separate .CSV files
+
+ 
+Level 1
+
+Bring the data into Python
+
+Print all the data
+
+Identify Unique Installations
+
+Identify Unique Installation/Site combinations
+ 
+
+Level 2
+
+The current “Total” is not really an overall Total.  Sum the costs for Each individual Installation/Site Combination
+
+Find the Average Cost per Site
+
+Add the Average Cost to the data set à very important to client
+
+Write the Answer to a .CSV
+
+ 
+Level3 (Should you dare)
+
+
+Split the Active data from the BRAC data and print two separate reports to .CSV
