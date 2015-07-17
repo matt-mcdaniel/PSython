@@ -1,3 +1,12 @@
+""" PsyThon Challenge 2 ---
+1.Code imports numpy, scipy and matplotlib (and its subsidiary pylab)
+2.Grabs a .WAV file and graphs the amplitudes of the waves
+3.You can also play with the sampling rates and FFT (Fast-fourier transform)
+4.Toggle the Quotes to do other analysis
+
+Like I said....Jedi Powers
+#https://sites.google.com/site/haskell102/home/frequency-analysis-of-audio-file-with-python-numpy-scipy
+"""
 
 #https://sites.google.com/site/haskell102/home/frequency-analysis-of-audio-file-with-python-numpy-scipy
 import pylab
