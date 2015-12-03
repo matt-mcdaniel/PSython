@@ -1,4 +1,3 @@
-Gents,
 
 You get a dataset from a Client with a quick turnaround (of course) which needs data counted, summed and divided into two different spreadsheets.  The problem is that everything is currently in one spreadsheet and its almost 6,000 rows long so….did I mention it was on Friday at 3pm and you have to work the weekend in excel?  If only there was better way.
 
